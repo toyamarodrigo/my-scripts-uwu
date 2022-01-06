@@ -1,3 +1,3 @@
 # My Scripts UwU
 
-removeContentWallFromGlassdoor.js - Remove annoying s-word frmo glassdoor
+removeContentWallFromGlassdoor.js - Remove annoying s-word from glassdoor
